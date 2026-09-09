@@ -44,6 +44,14 @@ header{
     font-size: 18px; 
     font-family: Arial, sans-serif;
 }
+.circlediv{
+    margin-left: 96px; 
+    position:relative; 
+    overflow:hidden; 
+    padding:48px 40px 60px;
+    height:700px;
+}
+
 
 /* INDEX.HTML */
 
@@ -110,13 +118,6 @@ header{
     box-shadow: 1px 1px 0 #1E2A4A ;
     margin-left:6px;
     margin-top:25px;
-}
-#contactdiv{
-    margin-left: 96px; 
-    position:relative; 
-    overflow:hidden; 
-    padding:48px 40px 60px;
-    height:700px;
 }
 #getintouch{
     color:#1E2A4A; 
